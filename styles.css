@@ -1,5 +1,22 @@
 .flexbox-container {
     display:flex;
-    background-color: #1F2937;
+}
+
+.flexbox-item-1 {
+width: 200px;
+margin: 10px;
+border: 3px;
+background-color: #1f2937;
+}
+
+.flexbox-item-2 {
+
+}
+
+.flexbox-item-3 {
+background-color: #e5e7eb;
+}
+
+.flexbox-item-4 {
     
 }
