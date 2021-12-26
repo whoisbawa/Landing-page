@@ -1,5 +1,5 @@
-div {
-    color: #F9FAF8;
-    font-size: 24px;
+.flexbox-container {
+    display:flex;
     background-color: #1F2937;
+    
 }
